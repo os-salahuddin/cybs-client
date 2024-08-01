@@ -1,0 +1,9 @@
+{
+    "name": "os-salahuddin/cbs-client",
+    "autoload": {
+        "psr-4": {
+            "OsSalahuddin\\CbsClient\\": "src/"
+        }
+    },
+    "require": {}
+}
